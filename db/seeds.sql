@@ -42,10 +42,4 @@ VALUES
         ("Christian", "Eckenrode", 3),
         ("Tammer", "Galal", 4);
     
-    -- UPDATE employee SET manager_id=3 WHERE id=1;
-    -- UPDATE employee SET manager_id=1 WHERE id=2;
-    -- UPDATE employee SET manager_id=3 WHERE id=4;
-    -- UPDATE employee SET manager_id=7 WHERE id=8;
-    -- UPDATE employee SET manager_id=2 WHERE id=9;
-    -- UPDATE employee SET manager_id=4 WHERE id=10;
     
